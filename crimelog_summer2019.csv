@@ -1,0 +1,52 @@
+Nature,CaseNumber,Location,TimeReported,TimeOccurredStart,TimeOccurredEnd,Disposition,Status,Nature_Split
+Fraud,19-0269,Post Office,07/29/2019 3:28 p.m.,07/09/2019 midnight,07/26/2019 midnight,Inactive,Active,Fraud
+Criminal Mischief,19-0268,Space Sciences,07/29/2019 9:37 a.m.,07/28/2019 9 p.m.,07/29/2019 8:30 a.m.,Active,Active,Criminal Mischief
+Criminal Trespass,19-0267,Cambridge Building,07/27/2019 3:07 p.m.,07/27/2019 3:07 p.m.,07/27/2019 3:51 p.m.,Criminal Arrest,Active,Criminal Trespass
+Theft,19-0265,Duncan College,07/26/2019 1:36 p.m.,07/26/2019 12:15 p.m.,07/26/2019 2:45 p.m.,Inactive,Active,Theft
+Theft,19-0264,Jesse H. Jones School,07/25/2019 6:28 p.m.,07/25/2019 2 p.m.,07/25/2019 4 p.m.,Active,Active,Theft
+Indecent Exposure,19-0262,Soft Sidewalk,07/22/2019 7:25 a.m.,07/22/2019 7:24 a.m.,07/22/2019 7:25 a.m.,County Citiation,Active,Indecent Exposure
+Criminal Trespass,19-0261,Soft Sidewalk,07/22/2019 1:04 a.m.,07/22/2019 1:05 a.m.,07/22/2019 2:14 a.m.,Criminal Arrest,Active,Criminal Trespass
+Criminal Mischief,19-0258,Sid Richardson College,07/19/2019 12:35 a.m.,07/18/2019 5:37 a.m.,07/19/2019 12:43 a.m.,Inactive,Active,Criminal Mischief
+Theft,19-0260,Keck Hall,07/19/2019 3:02 p.m.,07/18/2019 6 p.m.,07/19/2019 3 p.m.,Active,Active,Theft
+Failure to Stop and Give Information,19-0259,North Annex Lot,07/19/2019 4:37 a.m.,07/18/2019 11 p.m.,07/19/2019 4:30 a.m.,Active,Active,Failure to Stop and Give Information
+Theft,19-0254,Anderson Hall,07/16/2019 7:36 p.m.,07/16/2019 7:10 p.m.,07/16/2019 7:25 p.m.,Active,Active,Theft
+Theft,19-0253,Keck Hall,07/16/2019 2:26 p.m.,07/15/2019 10 a.m.,07/15/2019 5:30 p.m.,Inactive,Active,Theft
+Criminal Mischief,19-0251,Rayzor Hall,07/16/2019 12:17 p.m.,07/15/2019 5 p.m.,07/16/2019 12:15 p.m.,Inactive,Active,Criminal Mischief
+Failure to Identify,19-0250,A. P. Brown Hall,07/14/2019 11:18 p.m.,07/14/2019 11:15 p.m.,07/15/2019 3:47 a.m.,Criminal Arrest County Citiation,Active,Failure to Identify
+Theft,19-0249,Facilities &amp; Engineering,07/13/2019 12:12 p.m.,07/12/2019 2:30 p.m.,07/12/2019 11:30 p.m.,Unfounded,Active,Theft
+Criminal Mischief,19-0248,Entrance #18,07/12/2019 3:58 a.m.,07/12/2019 midnight,07/12/2019 3:58 a.m.,Inactive,Active,Criminal Mischief
+Theft,19-0247,Abercrombie,07/11/2019 9:48 a.m.,07/08/2019 midnight,07/11/2019 9:45 a.m.,Active,Active,Theft
+Fraud,19-0246,Off Campus,07/11/2019 8:59 a.m.,05/31/2019 midnight,05/31/2019 midnight,Active,Active,Fraud
+Driving While Intoxicated Weapons Violations (Clery),19-0245,Off Campus,07/11/2019 1:52 a.m.,07/11/2019 1:57 a.m.,07/11/2019 2:30 a.m.,Criminal Arrest,Active,Driving While Intoxicated
+Driving While Intoxicated Weapons Violations (Clery),19-0245,Off Campus,07/11/2019 1:52 a.m.,07/11/2019 1:57 a.m.,07/11/2019 2:30 a.m.,Criminal Arrest,Active,Weapons Violations
+Theft,19-0244,Valhalla,07/10/2019 10:08 p.m.,07/10/2019 9:45 a.m.,07/10/2019 10:15 a.m.,Active,Active,Theft
+Theft,19-0243,Tudor Field House,07/10/2019 4:12 p.m.,07/10/2019 10:30 a.m.,07/10/2019 12:25 p.m.,Active,Active,Theft
+Criminal Mischief,19-0242,Humanities,07/10/2019 7:46 a.m.,07/09/2019 5 p.m.,07/10/2019 7:30 a.m.,Active,Active,Criminal Mischief
+Theft,19-0241,BRC,07/09/2019 6:34 p.m.,07/09/2019 12:10 p.m.,07/09/2019 5:40 p.m.,Active,Active,Theft
+Theft,19-0240,West Lot,07/08/2019 4:05 p.m.,07/03/2019 6 p.m.,07/08/2019 4 p.m.,Inactive,Active,Theft
+Theft,19-0238,Hanszen College,07/06/2019 4:39 p.m.,07/06/2019 2 p.m.,07/07/2019 4:40 p.m.,Unfounded,Active,Theft
+Theft,19-0237,Jones College,07/03/2019 5:25 p.m.,07/02/2019 4 p.m.,07/03/2019 4:30 p.m.,Active,Active,Theft
+Theft,19-0235,Rice Stadium,07/02/2019 3:51 p.m.,07/02/2019 1 p.m.,07/02/2019 3:20 p.m.,Cleared,Active,Theft
+Theft,19-0234,Hanszen College,07/02/2019 9:03 a.m.,07/01/2019 9 p.m.,07/02/2019 8 a.m.,Active,Active,Theft
+Theft,19-0233,Abercrombie,07/01/2019 7:42 p.m.,07/01/2019 8:30 a.m.,07/01/2019 5 p.m.,Active,Active,Theft
+Theft,19-0232,Track Stadium,07/01/2019 11:52 a.m.,06/24/2019 8 a.m.,07/01/2019 8 a.m.,Active,Active,Theft
+Theft,19-0230,Rec Center,06/30/2019 7:57 p.m.,06/30/2019 6:50 p.m.,06/30/2019 7:35 p.m.,Inactive,Active,Theft
+Fraud,19-0229,Off Campus,06/30/2019 4:22 p.m.,06/29/2019 8 p.m.,06/30/2019 midnight,Active,Active,Fraud
+Burglary of a Motor Vehicle,19-0228,South Stadium Lot,06/29/2019 12:17 p.m.,06/23/2019 8 p.m.,06/29/2019 12:15 p.m.,Inactive,Active,Burglary of a Motor Vehicle
+Burglary of a Motor Vehicle,19-0227,Greenbriar Annex Building,06/29/2019 12:09 p.m.,06/28/2019 8:30 p.m.,06/29/2019 10:30 a.m.,Inactive,Active,Burglary of a Motor Vehicle
+Theft,19-0226,BRC,06/28/2019 5:33 p.m.,06/28/2019 8:50 a.m.,06/28/2019 5:30 p.m.,Inactive,Active,Theft
+Failure to Stop and Give Information,19-0225,South Colleges Lot,06/28/2019 9:21 a.m.,06/27/2019 6 p.m.,06/28/2019 9:30 a.m.,Active,Active,Failure to Stop and Give Information
+Unauthorized Use of a Motor Vehicle (Clery),19-0224,Facilities &amp; Engineering,06/26/2019 5:41 p.m.,06/26/2019 5 p.m.,06/26/2019 5:40 p.m.,Criminal Arrest County Citiation,Active,Unauthorized Use of a Motor Vehicle
+Theft,19-0223,Keck Hall,06/25/2019 4:30 p.m.,06/24/2019 5 p.m.,06/25/2019 11 a.m.,Active,Active,Theft
+Criminal Trespass,19-0220,Cambridge Building,06/19/2019 11:23 p.m.,06/19/2019 11:35 p.m.,06/20/2019 12:09 a.m.,County Citiation,Active,Criminal Trespass
+Theft,19-0217,BRC,06/17/2019 1:11 p.m.,06/15/2019 noon,06/17/2019 10:30 a.m.,Active,Active,Theft
+Theft,19-0216,Ryon Lab,06/17/2019 11 a.m.,04/26/2019 2 p.m.,05/17/2019 12:30 p.m.,Active,Active,Theft
+Theft,19-0214,Rice Memorial Center,06/13/2019 2:37 p.m.,06/07/2019 3 p.m.,06/13/2019 10 a.m.,Active,Active,Theft
+Theft,19-0212,Anderson Clarke,06/12/2019 3:59 p.m.,06/11/2019 5 p.m.,06/12/2019 8 a.m.,Inactive,Active,Theft
+Burglary of a Motor Vehicle,19-0210,North Lot,06/12/2019 12:36 a.m.,06/11/2019 8 p.m.,06/11/2019 11:40 p.m.,Active,Active,Burglary of a Motor Vehicle
+Warrants,19-0209,BRC,06/10/2019 6:50 p.m.,06/10/2019 6:51 p.m.,06/10/2019 11:30 p.m.,Criminal Arrest,Active,Warrants
+Fraud,19-0208,,06/06/2019 3:54 p.m.,06/06/2019 8 a.m.,06/06/2019 2:50 p.m.,Active,Active,Fraud
+Theft,19-0206,Facilities &amp; Engineering,06/05/2019 3:31 p.m.,06/05/2019 3:25 p.m.,06/05/2019 3:25 p.m.,Active,Active,Theft
+Theft,19-0205,Rec Center,06/04/2019 5:15 p.m.,06/04/2019 3:30 p.m.,06/04/2019 4:30 p.m.,Inactive,Active,Theft
+Theft,19-0204,Hanszen College,06/04/2019 12:11 p.m.,06/03/2019 6 p.m.,06/04/2019 10 a.m.,Active,Active,Theft
+Theft,19-0203,Greenbriar Lot,06/04/2019 8:25 a.m.,05/31/2019 3 p.m.,06/04/2019 8:15 a.m.,Inactive,Active,Theft

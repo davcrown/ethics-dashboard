@@ -1,0 +1,100 @@
+Nature,CaseNumber,Location,TimeReported,TimeOccurredStart,TimeOccurredEnd,Disposition,Status,Nature_Split
+Theft,25-0138,Rec Center,04/28/2025 11:09 a.m.,04/25/2025 1 p.m.,04/27/2025 11:09 a.m.,Inactive,Active,Theft
+Warrants,25-0136,West Lot,04/24/2025 6:35 p.m.,04/24/2025 6:30 p.m.,04/24/2025 6:34 p.m.,Criminal Arrest,Active,Warrants
+Burglary of a Motor Vehicle,25-0135,Cambridge Building,04/23/2025 11:24 a.m.,04/22/2025 6 p.m.,04/23/2025 10:30 a.m.,Active,Active,Burglary of a Motor Vehicle
+Burglary of a Motor Vehicle,25-0134,Cambridge Building,04/22/2025 2:45 p.m.,04/22/2025 10 a.m.,04/22/2025 12:30 p.m.,Active,Active,Burglary of a Motor Vehicle
+Assault Impersonating a Police Officer,25-0130,Reckling Park,04/15/2025 8:01 p.m.,04/18/2025 7:45 p.m.,04/15/2025 7:50 p.m.,Cleared,Active,Assault
+Assault Impersonating a Police Officer,25-0130,Reckling Park,04/15/2025 8:01 p.m.,04/18/2025 7:45 p.m.,04/15/2025 7:50 p.m.,Cleared,Active,Impersonating a Police Officer
+Unauthorized Use of a Motor Vehicle (Clery),25-0129,Duncan College,04/15/2025 4:22 p.m.,04/15/2025 12:50 p.m.,04/15/2025 2 p.m.,Active,Active,Unauthorized Use of a Motor Vehicle
+Theft,25-0128,BRC,04/15/2025 3:30 p.m.,04/15/2025 9:25 a.m.,04/15/2025 10:25 a.m.,Inactive,Active,Theft
+Theft,25-0127,BRC,04/14/2025 8:12 p.m.,04/14/2025 5:45 p.m.,04/14/2025 8:10 p.m.,Active,Active,Theft
+Theft,25-0126,BRC,04/14/2025 7:06 p.m.,04/14/2025 2 p.m.,04/14/2025 5 p.m.,Active,Active,Theft
+Theft,25-0117,Brown College,04/07/2025 2:17 p.m.,04/06/2025 8 p.m.,04/07/2025 12:40 p.m.,Active,Active,Theft
+Criminal Mischief,25-0116,BRC,04/07/2025 2 p.m.,04/07/2025 1 p.m.,04/07/2025 1 p.m.,Active,Active,Criminal Mischief
+Theft,25-0115,Duncan Hall,04/06/2025 4:17 p.m.,04/02/2025 6 p.m.,04/06/2025 10:40 p.m.,Active,Active,Theft
+Unauthorized Use of a Motor Vehicle (Clery),25-0114,Tudor Field House,04/05/2025 10:45 p.m.,04/05/2025 10:30 p.m.,04/05/2025 10:44 p.m.,Inactive,Active,Unauthorized Use of a Motor Vehicle
+Unauthorized Use of a Motor Vehicle (Clery),25-0112,Space Sciences,04/04/2025 10:16 a.m.,04/04/2025 8:30 a.m.,04/04/2025 10 a.m.,Active,Active,Unauthorized Use of a Motor Vehicle
+Unauthorized Use of a Motor Vehicle (Clery),25-0111,Martel College,04/03/2025 10:53 a.m.,03/28/2025 6 p.m.,03/29/2025 1 a.m.,Active,Active,Unauthorized Use of a Motor Vehicle
+Assault,25-0109,Jones College,04/03/2025 9:45 a.m.,03/31/2025 midnight,04/01/2025 2:30 a.m.,Active,Active,Assault
+Failure to Stop and Give Information,25-0108,North Colleges Lot,04/02/2025 3:38 p.m.,04/02/2025 3:20 p.m.,04/02/2025 3:38 p.m.,Active,Active,Failure to Stop and Give Information
+Criminal Mischief,25-0107,Lovett Hall,04/01/2025 10:33 a.m.,03/29/2025 12:01 a.m.,03/31/2025 9 a.m.,Inactive,Active,Criminal Mischief
+Theft,25-0106,McMurtry College,03/30/2025 9:25 p.m.,03/28/2025 11 a.m.,03/30/2025 1:30 p.m.,Active,Active,Theft
+Failure to Stop and Give Information,25-0105,West Lot,03/30/2025 2:15 p.m.,03/23/2025 7:30 p.m.,03/29/2025 4 a.m.,Active,Active,Failure to Stop and Give Information
+Unauthorized Use of a Motor Vehicle (Clery),25-0104,Jesse H. Jones School,03/24/2025 2:41 p.m.,03/14/2025 5 p.m.,03/15/2025 11 a.m.,Inactive,Active,Unauthorized Use of a Motor Vehicle
+Criminal Mischief,25-0103,Sewall Hall,03/24/2025 8:50 a.m.,03/21/2025 5 p.m.,03/24/2025 7 a.m.,Active,Active,Criminal Mischief
+Fraud,25-0102,Jones College,03/22/2025 4:57 p.m.,03/18/2025 7 a.m.,03/21/2025 6 p.m.,Active,Active,Fraud
+Criminal Mischief,25-0098,South Stadium Lot,03/16/2025 5:50 p.m.,03/07/2025 2:30 p.m.,03/16/2025 5:45 p.m.,Active,Active,Criminal Mischief
+Theft,25-0097,Baker College,03/14/2025 5:38 p.m.,03/10/2025 4:45 p.m.,03/14/2025 5 p.m.,Active,Active,Theft
+Unauthorized Use of a Motor Vehicle (Clery),25-0096,Rice Memorial Center,03/13/2025 7:35 p.m.,03/13/2025 3:37 p.m.,03/13/2025 6:07 p.m.,Inactive,Active,Unauthorized Use of a Motor Vehicle
+Unauthorized Use of a Motor Vehicle (Clery),25-0094,Kraft Hall,03/13/2025 12:11 p.m.,03/13/2025 11 a.m.,03/13/2025 noon,Active,Active,Unauthorized Use of a Motor Vehicle
+Stalking,25-0093,McMurtry College,03/13/2025 11:06 a.m.,11/01/2024 10 a.m.,03/09/2025 3 p.m.,Active,Active,Stalking
+Unauthorized Use of a Motor Vehicle (Clery),25-0092,Lovett College,03/12/2025 11:59 p.m.,03/12/2025 10:49 p.m.,03/12/2025 10:55 p.m.,Active,Active,Unauthorized Use of a Motor Vehicle
+Theft,25-0091,Jones College,03/10/2025 1:29 p.m.,03/07/2025 4 p.m.,03/10/2025 1 p.m.,Inactive,Active,Theft
+Fraud,25-0088,West Servery,03/06/2025 1:48 p.m.,02/28/2025 12:01 p.m.,02/28/2025 5:56 p.m.,Active,Active,Fraud
+Theft,25-0087,McMurtry College,03/06/2025 1:48 p.m.,02/28/2025 noon,02/28/2025 5:56 p.m.,Active,Active,Theft
+Theft,25-0085,Herman Brown Hall,03/06/2025 10:14 a.m.,03/04/2025 8:30 a.m.,03/04/2025 11:30 p.m.,Inactive,Active,Theft
+Unauthorized Use of a Motor Vehicle (Clery),25-0082,A. P. Brown Hall,03/03/2025 6:33 p.m.,03/03/2025 2 p.m.,03/03/2025 5 p.m.,Active,Active,Unauthorized Use of a Motor Vehicle
+Unauthorized Use of a Motor Vehicle (Clery),25-0080,Mech Lab,03/03/2025 4:58 p.m.,03/03/2025 2 p.m.,03/03/2025 3:15 p.m.,Active,Active,Unauthorized Use of a Motor Vehicle
+Unauthorized Use of a Motor Vehicle (Clery),25-0078,Baker College,02/28/2025 8:23 p.m.,02/27/2025 2 p.m.,02/28/2025 8:20 p.m.,Inactive,Active,Unauthorized Use of a Motor Vehicle
+Theft,25-0077,Jesse H. Jones School,02/28/2025 6:55 a.m.,02/27/2025 8 p.m.,02/28/2025 5:45 a.m.,Inactive,Active,Theft
+Alcohol Violations (Clery),25-0076,Hanszen College,02/28/2025 12:21 a.m.,02/28/2025 12:20 a.m.,02/28/2025 1:27 a.m.,Citation - Judicial Referral,Active,Alcohol Violations
+Harassment,25-0075,Off Campus,02/27/2025 6:29 p.m.,02/22/2025 12:01 a.m.,02/25/2025 11:59 a.m.,Active,Active,Harassment
+Burglary of a Motor Vehicle,25-0074,BRC,02/25/2025 7:03 a.m.,02/24/2025 9 p.m.,02/25/2025 7 a.m.,Active,Active,Burglary of a Motor Vehicle
+Terroristic Threat,25-0071,A. P. Brown Hall,02/24/2025 11:03 a.m.,02/24/2025 10 a.m.,02/24/2025 11 a.m.,Active,Active,Terroristic Threat
+Weapons Violations (Clery),25-0070,Reckling Park,02/24/2025 7:44 a.m.,02/24/2025 7:43 a.m.,02/24/2025 7:43 a.m.,Active,Active,Weapons Violations
+Criminal Trespass,25-0069,Brian Patterson Complex,02/22/2025 10:54 p.m.,02/22/2025 10 p.m.,02/22/2025 10:24 p.m.,Active,Active,Criminal Trespass
+Disorderly Conduct,25-0068,Sid Richardson College,02/22/2025 11:31 p.m.,02/22/2025 11:31 p.m.,02/22/2025 11:55 p.m.,Judicial Referral,Active,Disorderly Conduct
+Criminal Trespass,25-0067,Lovett College,02/20/2025 9:55 p.m.,02/20/2025 9:50 p.m.,02/20/2025 9:54 p.m.,Cleared,Active,Criminal Trespass
+Theft,25-0066,Hanszen College,02/19/2025 9:04 a.m.,02/15/2025 1:50 p.m.,02/16/2025 3 p.m.,Inactive,Active,Theft
+Criminal Mischief,25-0062,McMurtry College,02/17/2025 3:37 p.m.,02/15/2025 8 p.m.,02/16/2025 11 a.m.,Active,Active,Criminal Mischief
+Theft,25-0061,BRC,02/17/2025 11:13 a.m.,02/17/2025 11:13 a.m.,02/17/2025 11:15 a.m.,Criminal Arrest,Active,Theft
+Criminal Mischief,25-0060,Rice Stadium,02/17/2025 9:39 a.m.,02/14/2025 4 p.m.,02/17/2025 9 a.m.,Inactive,Active,Criminal Mischief
+Aggravated Assault (Clery),25-0058,Entrance #3,02/15/2025 6:36 p.m.,02/15/2025 6:30 p.m.,02/15/2025 6:34 p.m.,Active,Active,Aggravated Assault
+Public Intoxication,25-0056,Keck Hall,02/15/2025 12:24 a.m.,02/15/2025 12:21 a.m.,02/15/2025 1:38 a.m.,Inactive,Active,Public Intoxication
+Criminal Trespass,25-0055,Rec Center,02/14/2025 1:24 p.m.,02/14/2025 1:24 p.m.,02/14/2025 2:26 p.m.,Active Citation - Judicial Referral,Active,Criminal Trespass
+Driving While Intoxicated Failure to Stop and Give Information,25-0053,Off Campus,02/14/2025 5:12 a.m.,02/14/2025 5:12 a.m.,02/14/2025 5:12 a.m.,Criminal Arrest,Active,Driving While Intoxicated
+Driving While Intoxicated Failure to Stop and Give Information,25-0053,Off Campus,02/14/2025 5:12 a.m.,02/14/2025 5:12 a.m.,02/14/2025 5:12 a.m.,Criminal Arrest,Active,Failure to Stop and Give Information
+Burglary of a Motor Vehicle,25-0051,BRC,02/12/2025 11:25 a.m.,02/12/2025 midnight,02/12/2025 11:20 a.m.,Active,Active,Burglary of a Motor Vehicle
+Theft,25-0049,McMurtry College,02/11/2025 10:41 a.m.,02/10/2025 8:30 p.m.,02/10/2025 11:30 p.m.,Inactive,Active,Theft
+Theft,25-0048,North Servery,02/10/2025 6:55 p.m.,02/10/2025 noon,02/10/2025 6:50 p.m.,Active,Active,Theft
+Theft,25-0047,RUMPAC/Brockman Performing arts Center,02/10/2025 6:48 p.m.,02/10/2025 3:30 p.m.,02/10/2025 5:30 p.m.,Inactive,Active,Theft
+Theft,25-0046,Campanile Road,02/10/2025 1:35 p.m.,02/10/2025 1:30 p.m.,02/10/2025 1:30 p.m.,Active,Active,Theft
+Failure to Stop and Give Information,25-0045,West Lot,02/10/2025 1:03 p.m.,02/06/2025 10:30 a.m.,02/06/2025 7 p.m.,Active,Active,Failure to Stop and Give Information
+Burglary of a Motor Vehicle,25-0042,Central Campus Garage,02/03/2025 9:40 p.m.,02/03/2025 5:20 p.m.,02/03/2025 9:40 p.m.,Active,Active,Burglary of a Motor Vehicle
+Theft,25-0041,George R. Brown Hall,02/03/2025 4:06 p.m.,01/31/2025 12:01 a.m.,01/31/2025 11:59 p.m.,Inactive,Active,Theft
+Theft,25-0040,O'Connor Building,02/03/2025 12:45 p.m.,01/28/2025 noon,02/03/2025 noon,Inactive,Active,Theft
+Failure to Stop and Render Aid,25-0039,Laboratory Road,01/31/2025 7:48 p.m.,01/31/2025 7 p.m.,01/31/2025 7:45 p.m.,Inactive,Active,Failure to Stop and Render Aid
+Theft,25-0038,Jones College,01/31/2025 3:25 p.m.,01/24/2025 5:10 p.m.,01/25/2025 7 p.m.,Active,Active,Theft
+Theft,25-0037,Space Sciences,01/31/2025 11:44 a.m.,01/30/2025 8 a.m.,01/30/2025 1 p.m.,Active,Active,Theft
+Assault,25-0036,Soft Sidewalk,01/31/2025 8:50 a.m.,01/31/2025 6:30 a.m.,01/31/2025 7 a.m.,Active,Active,Assault
+Theft,25-0035,Will Rice College,01/30/2025 9:50 p.m.,01/30/2025 4 p.m.,01/30/2025 9 p.m.,Active,Active,Theft
+Theft,25-0034,Humanities,01/30/2025 3:28 p.m.,01/30/2025 2:20 p.m.,01/30/2025 3:15 p.m.,Active,Active,Theft
+Theft,25-0033,Brockman Engineering Building,01/30/2025 2:50 p.m.,01/30/2025 2:30 p.m.,01/30/2025 2:48 p.m.,Active,Active,Theft
+Theft Impersonating a Police Officer,25-0032,Facilities &amp; Engineering,01/30/2025 7:52 a.m.,01/29/2025 2:30 p.m.,01/30/2025 6:30 a.m.,Active,Active,Theft
+Theft Impersonating a Police Officer,25-0032,Facilities &amp; Engineering,01/30/2025 7:52 a.m.,01/29/2025 2:30 p.m.,01/30/2025 6:30 a.m.,Active,Active,Impersonating a Police Officer
+Harassment,25-0029,Mudd Lab,01/28/2025 5:43 p.m.,01/26/2025 9:42 a.m.,01/28/2025 9:59 a.m.,Active,Active,Harassment
+Theft,25-0028,Humanities,01/28/2025 9:56 a.m.,01/13/2025 8:30 a.m.,01/28/2025 3 p.m.,Active,Active,Theft
+Harassment,25-0030,O'Connor Building,01/27/2025 7:17 p.m.,01/27/2025 7 p.m.,01/27/2025 7:15 p.m.,Active,Active,Harassment
+Theft from a Vehicle,25-0027,South Colleges Lot,01/27/2025 7:19 p.m.,01/27/2025 10 a.m.,01/27/2025 7 p.m.,Active,Active,Theft from a Vehicle
+Theft,25-0026,BRC,01/27/2025 12:35 p.m.,01/27/2025 9 a.m.,01/27/2025 noon,Active,Active,Theft
+Unauthorized Use of a Motor Vehicle (Clery),25-0025,West Lot,01/27/2025 12:40 p.m.,01/26/2025 10:30 a.m.,01/27/2025 noon,Active,Active,Unauthorized Use of a Motor Vehicle
+Criminal Mischief,25-0024,Greenbriar Lot,01/26/2025 3:40 p.m.,01/26/2025 3:35 p.m.,01/26/2025 3:40 p.m.,Inactive,Active,Criminal Mischief
+Theft,25-0022,Tudor Field House,01/25/2025 8:24 p.m.,01/25/2025 10 a.m.,01/25/2025 7 p.m.,Active,Active,Theft
+Theft,25-0019,West Lot,01/23/2025 2:39 p.m.,01/18/2025 5:20 a.m.,01/23/2025 8:09 a.m.,Inactive,Active,Theft
+Harassment,25-0018,Off Campus,01/20/2025 7:55 p.m.,01/11/2025 12:01 a.m.,01/12/2025 12:01 a.m.,Inactive,Active,Harassment
+Criminal Mischief,25-0017,Rice Stadium,01/20/2025 2:12 p.m.,01/16/2025 11 a.m.,01/20/2025 noon,Active,Active,Criminal Mischief
+Theft,25-0016,McMurtry College,01/19/2025 3:13 p.m.,01/17/2025 noon,01/19/2025 3 p.m.,Inactive,Active,Theft
+Theft,25-0014,Will Rice College,01/18/2025 1:59 a.m.,01/18/2025 midnight,01/18/2025 1:45 a.m.,Active,Active,Theft
+Theft Unauthorized Use of a Motor Vehicle (Clery),25-0013,Wiess College,01/18/2025 1:59 a.m.,01/18/2025 midnight,01/18/2025 1 a.m.,Active,Active,Theft
+Theft Unauthorized Use of a Motor Vehicle (Clery),25-0013,Wiess College,01/18/2025 1:59 a.m.,01/18/2025 midnight,01/18/2025 1 a.m.,Active,Active,Unauthorized Use of a Motor Vehicle
+Criminal Mischief,25-0012,Rice Media Center,01/17/2025 6:42 a.m.,01/16/2025 2 p.m.,01/17/2025 6:30 a.m.,Inactive,Active,Criminal Mischief
+Unauthorized Use of a Motor Vehicle (Clery),25-0011,West Lot,01/15/2025 10:35 a.m.,01/14/2025 1:47 p.m.,01/14/2025 7 p.m.,Inactive,Active,Unauthorized Use of a Motor Vehicle
+Theft,25-0009,Brochstein Pavilion,01/14/2025 11:08 a.m.,10/01/2024 11:08 a.m.,01/14/2025 11:08 a.m.,Inactive,Active,Theft
+Unauthorized Use of a Motor Vehicle (Clery),25-0010,Tents,01/14/2025 8:24 p.m.,01/14/2025 6:30 p.m.,01/14/2025 8:30 p.m.,Inactive,Active,Unauthorized Use of a Motor Vehicle
+Theft,25-0008,Wiess College,01/12/2025 9:29 p.m.,12/21/2024 9 p.m.,01/12/2025 7 p.m.,Active,Active,Theft
+Theft,25-0007,McMurtry College,01/12/2025 9 a.m.,12/17/2024 4:30 p.m.,01/12/2025 7 p.m.,Inactive,Active,Theft
+Criminal Mischief,25-0006,Martel College,01/07/2025 1:30 p.m.,12/18/2024 noon,01/06/2025 2 p.m.,Inactive,Active,Criminal Mischief
+Criminal Mischief,25-0005,Rice Village Apartments,01/07/2025 10:49 a.m.,01/03/2025 6:30 p.m.,01/07/2025 10:49 a.m.,Active,Active,Criminal Mischief
+Theft,25-0004,Humanities,01/06/2025 1:13 p.m.,01/02/2025 11 a.m.,01/02/2025 noon,Active,Active,Theft
+Criminal Mischief,25-0003,Anderson Biology,01/03/2025 4:29 p.m.,01/02/2025 3 p.m.,01/03/2025 4:29 p.m.,Active,Active,Criminal Mischief
+Fraud,25-0001,Valhalla,01/01/2025 10:27 a.m.,12/09/2024 noon,01/01/2025 10 a.m.,Active,Active,Fraud

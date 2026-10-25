@@ -1,0 +1,29 @@
+Nature,CaseNumber,Location,TimeReported,TimeOccurredStart,TimeOccurredEnd,Disposition,Status,Nature_Split
+Theft,15-0379,Brockman Engineering Building,07/28/2015 11:57 p.m.,07/28/2015 8:30 p.m.,07/28/2015 11:30 p.m.,Active,Active,Theft
+Theft,15-0375,Anderson Clarke,07/23/2015 3:09 p.m.,07/21/2015 5 p.m.,07/22/2015 7:30 a.m.,Active,Active,Theft
+Criminal Trespass,15-0374,Fondren Library,07/22/2015 1:44 p.m.,07/22/2015 1:44 p.m.,07/22/2015 2:20 p.m.,Inactive,Active,Criminal Trespass
+Burglary (Clery),15-0373,Brown College,07/21/2015 10:55 a.m.,07/21/2015 10:10 a.m.,07/21/2015 10:30 a.m.,Active,Active,Burglary
+Criminal Trespass,15-0371,Entrance #3,07/19/2015 1:13 a.m.,07/19/2015 1:14 a.m.,07/19/2015 1:35 a.m.,Cleared Criminal Arrest,Active,Criminal Trespass
+Harassment,15-0372,Anderson Biology,07/14/2015 1:46 p.m.,07/12/2015 11 p.m.,07/13/2015 noon,Active,Active,Harassment
+Criminal Trespass,15-0364,Rayzor Hall,07/10/2015 3:15 a.m.,07/10/2015 3:15 a.m.,07/10/2015 3:40 a.m.,Criminal Arrest,Active,Criminal Trespass
+Theft,15-0363,Fondren Library,07/09/2015 8:45 p.m.,07/09/2015 1 p.m.,07/09/2015 2 p.m.,Active,Active,Theft
+Theft,15-0362,Brown College,07/09/2015 4:15 p.m.,07/02/2015 noon,07/07/2015 3 p.m.,Inactive,Active,Theft
+Theft,15-0361,Ryon Lab,07/09/2015 10:51 a.m.,06/17/2015 9 a.m.,06/22/2015 9 a.m.,Inactive,Active,Theft
+Failure to Stop and Give Information,15-0359,West Lot,07/07/2015 1:58 p.m.,07/02/2015 9:30 a.m.,07/07/2015 11 a.m.,Inactive,Active,Failure to Stop and Give Information
+Criminal Trespass,15-0356,South Colleges Lot,07/04/2015 9:53 p.m.,07/04/2015 9:53 p.m.,07/05/2015 midnight,Inactive,Active,Criminal Trespass
+Burglary (Clery),15-0355,Will Rice College,07/04/2015 10:26 a.m.,06/29/2015 8 a.m.,07/02/2015 5 p.m.,Active,Active,Burglary
+Criminal Trespass,15-0354,Baker College,07/04/2015 8:31 a.m.,07/04/2015 8:30 a.m.,07/04/2015 8:30 a.m.,Inactive,Active,Criminal Trespass
+Theft,15-0350,Wiess College,06/28/2015 12:38 p.m.,06/28/2015 noon,06/28/2015 2:20 p.m.,Active,Active,Theft
+Theft,15-0349,Will Rice College,06/24/2015 10:13 p.m.,06/22/2015 7 a.m.,06/24/2015 9:30 p.m.,Active,Active,Theft
+Theft,15-0348,Fondren Library,06/23/2015 4:33 p.m.,06/23/2015 1 p.m.,06/23/2015 1:20 p.m.,Inactive,Active,Theft
+Criminal Trespass,15-0346,Soft Sidewalk,06/22/2015 5:35 p.m.,06/22/2015 5:30 p.m.,06/22/2015 6 p.m.,Cleared,Active,Criminal Trespass
+Fraud,15-0343,Off Campus,06/20/2015 10:50 a.m.,05/22/2015 10:28 a.m.,05/22/2015 10:28 a.m.,Active,Active,Fraud
+Theft,15-0340,Rec Center,06/17/2015 10:29 p.m.,06/17/2015 6:10 p.m.,06/17/2015 8:50 p.m.,Active,Active,Theft
+Criminal Trespass,15-0337,Lovett Lot,06/12/2015 1:07 a.m.,06/12/2015 1:08 a.m.,06/12/2015 1:26 a.m.,Active,Active,Criminal Trespass
+Failure to Stop and Give Information,15-0335,Rice Graduate Apartments,06/09/2015 8:09 p.m.,06/05/2015 8 p.m.,06/07/2015 6 p.m.,Inactive,Active,Failure to Stop and Give Information
+Failure to Stop and Give Information,15-0333,BRC,06/08/2015 8:36 p.m.,06/08/2015 4:45 p.m.,06/08/2015 8:40 p.m.,Active,Active,Failure to Stop and Give Information
+Criminal Trespass,15-0332,Herring Hall,06/07/2015 8:08 p.m.,06/07/2015 8:08 p.m.,06/07/2015 8:48 p.m.,Cleared,Active,Criminal Trespass
+Criminal Trespass,15-0331,Sid Richardson College,06/06/2015 6:14 p.m.,06/06/2015 6:14 p.m.,06/06/2015 6:14 p.m.,Inactive,Active,Criminal Trespass
+Harassment,15-0329,Dell Butcher Hall,06/05/2015 9:03 a.m.,06/03/2015 7 a.m.,06/04/2015 11:34 a.m.,Active,Active,Harassment
+Criminal Trespass,15-0325,Lovett Hall,06/04/2015 11:59 a.m.,06/04/2015 1:53 p.m.,06/04/2015 2:09 p.m.,Cleared,Active,Criminal Trespass
+Theft,15-0323,Baker College,06/03/2015 12:26 a.m.,05/26/2015 noon,05/28/2015 12:28 p.m.,Inactive,Active,Theft

@@ -1,0 +1,29 @@
+Nature,CaseNumber,Location,TimeReported,TimeOccurredStart,TimeOccurredEnd,Disposition,Status,Nature_Split
+Burglary (Clery),24-0267,Jones College,07/31/2024 6:43 p.m.,07/31/2024 6:40 p.m.,07/31/2024 6:58 p.m.,Cleared,Active,Burglary
+Harassment,24-0266,Rice University Police,07/31/2024 10:30 a.m.,01/01/2024 midnight,07/31/2024 midnight,Active,Active,Harassment
+Theft,24-0265,Dell Butcher Hall,07/30/2024 6:13 p.m.,07/30/2024 8:40 a.m.,07/30/2024 3:50 p.m.,Active,Active,Theft
+Criminal Mischief,240263,Brockman Engineering Building,07/26/2024 4:59 p.m.,07/26/2024 4:45 p.m.,07/26/2024 5 p.m.,Active,Active,Criminal Mischief
+Criminal Mischief,24-0262,Martel College,07/26/2024 12:04 p.m.,07/25/2024 1:26 p.m.,07/25/2024 5:59 p.m.,Active,Active,Criminal Mischief
+Theft,24-0259,Hanszen College,07/23/2024 6:42 a.m.,07/15/2024 10 a.m.,07/16/2024 10 a.m.,Active,Active,Theft
+Theft Burglary of a Motor Vehicle,24-0257,Sid Richardson College,07/18/2024 7:07 a.m.,07/07/2024 2 p.m.,07/18/2024 7 a.m.,Active,Active,Theft
+Theft Burglary of a Motor Vehicle,24-0257,Sid Richardson College,07/18/2024 7:07 a.m.,07/07/2024 2 p.m.,07/18/2024 7 a.m.,Active,Active,Burglary of a Motor Vehicle
+Harassment,24-0255,Cambridge Building,07/16/2024 1:11 p.m.,05/30/2024 5 p.m.,06/16/2024 1 p.m.,Active,Active,Harassment
+Failure to Stop and Give Information,24-0254,Entrance #18,07/12/2024 9:35 a.m.,06/25/2024 4:30 p.m.,06/25/2024 5 p.m.,Active,Active,Failure to Stop and Give Information
+Fraud,24-0253,O Connor House,07/11/2024 8:02 p.m.,04/25/2024 midnight,07/11/2024 midnight,Active,Active,Fraud
+Failure to Stop and Give Information,24-0252,Hamman Hall,07/11/2024 2:29 p.m.,07/11/2024 2:15 p.m.,07/11/2024 2:25 p.m.,Active,Active,Failure to Stop and Give Information
+Warrants,24-0250,Housing and Dining,07/10/2024 12:46 p.m.,07/10/2024 12:30 p.m.,07/10/2024 12:30 p.m.,Criminal Arrest,Active,Warrants
+Unauthorized Use of a Motor Vehicle (Clery) Impersonating a Police Officer,24-0245,Oshman Engineering,06/25/2024 8:48 p.m.,06/25/2024 7 p.m.,06/25/2024 8 p.m.,Active,Active,Unauthorized Use of a Motor Vehicle
+Unauthorized Use of a Motor Vehicle (Clery) Impersonating a Police Officer,24-0245,Oshman Engineering,06/25/2024 8:48 p.m.,06/25/2024 7 p.m.,06/25/2024 8 p.m.,Active,Active,Impersonating a Police Officer
+Indecent Exposure,24-0244,Fondren Library,06/25/2024 7:07 a.m.,06/25/2024 7 a.m.,06/25/2024 7:04 a.m.,Cleared,Active,Indecent Exposure
+Extortion,24-0243,Hanszen College,06/23/2024 4:24 p.m.,06/17/2024 6:30 p.m.,06/23/2024 3:30 p.m.,Active,Active,Extortion
+Assault,24-0242,Fondren Library,06/18/2024 4:40 p.m.,06/18/2024 4:40 p.m.,06/18/2024 5 p.m.,Active,Active,Assault
+Criminal Mischief,24-0241,BRC,06/18/2024 10:15 a.m.,06/18/2024 midnight,06/18/2024 7 a.m.,Active,Active,Criminal Mischief
+Drug/Narcotic Violations (Clery),24-0240,Baker College,06/17/2024 7:25 p.m.,06/17/2024 7:25 p.m.,06/17/2024 8:13 p.m.,Judicial Referral,Active,Drug/Narcotic Violations
+Criminal Mischief,24-0239,Founders Court Drive,06/17/2024 2:50 p.m.,05/01/2024 9 a.m.,05/31/2024 5 p.m.,Active,Active,Criminal Mischief
+Driving Under the Influence,24-0238,Keck Hall,06/14/2024 11:40 p.m.,06/14/2024 11:30 p.m.,06/14/2024 11:40 p.m.,Criminal Arrest,Active,Driving Under the Influence
+Theft Unauthorized Use of a Motor Vehicle (Clery),24-0237,Brian Patterson Complex,06/14/2024 7:03 p.m.,06/14/2024 5 a.m.,06/14/2024 3:15 p.m.,Active,Active,Theft
+Theft Unauthorized Use of a Motor Vehicle (Clery),24-0237,Brian Patterson Complex,06/14/2024 7:03 p.m.,06/14/2024 5 a.m.,06/14/2024 3:15 p.m.,Active,Active,Unauthorized Use of a Motor Vehicle
+Theft Unauthorized Use of a Motor Vehicle (Clery),24-0236,Rec Center,06/10/2024 2:56 p.m.,06/10/2024 1:50 p.m.,06/10/2024 2:50 p.m.,Active,Active,Theft
+Theft Unauthorized Use of a Motor Vehicle (Clery),24-0236,Rec Center,06/10/2024 2:56 p.m.,06/10/2024 1:50 p.m.,06/10/2024 2:50 p.m.,Active,Active,Unauthorized Use of a Motor Vehicle
+Aggravated Assault (Clery),24-0233,West Lot,06/06/2024 5:43 p.m.,06/06/2024 6:30 p.m.,06/06/2024 6:30 p.m.,Active,Active,Aggravated Assault
+Theft,24-0230,BRC,06/02/2024 12:44 p.m.,06/01/2024 midnight,06/01/2024 3:50 p.m.,Inactive,Active,Theft

@@ -1,0 +1,21 @@
+Nature,CaseNumber,Location,TimeReported,TimeOccurredStart,TimeOccurredEnd,Disposition,Status,Nature_Split
+Failure to Stop and Give Information,20-0187,West Lot,07/31/2020 10:43 a.m.,07/31/2020 10:20 a.m.,07/31/2020 10:40 a.m.,Inactive,Active,Failure to Stop and Give Information
+Fraud,20-0185,Off Campus,07/28/2020 3:55 p.m.,07/20/2020 4:33 p.m.,07/20/2020 4:33 p.m.,Active,Active,Fraud
+Fraud,20-0182,Off Campus,07/21/2020 11:31 a.m.,07/20/2020 4:33 p.m.,07/20/2020 4:33 p.m.,Active,Active,Fraud
+Fraud,20-0181,Off Campus,07/20/2020 11:59 a.m.,07/09/2020 5:32 p.m.,07/20/2020 noon,Referred other jurisdiction,Active,Fraud
+Fraud,20-0180,Off Campus,07/15/2020 2:50 p.m.,07/09/2020 5:30 a.m.,07/11/2020 noon,Inactive,Active,Fraud
+Drug/Narcotic Violations (Clery),20-0179,North Colleges Lot,07/13/2020 1:42 a.m.,07/13/2020 1:42 a.m.,07/13/2020 7:39 a.m.,Criminal Arrest,Active,Drug/Narcotic Violations
+Fraud,20-0178,Rice Village Apartments,07/07/2020 9:12 a.m.,07/07/2020 midnight,07/07/2020 midnight,Inactive,Active,Fraud
+Terroristic Threat,20-0177,West Lot,07/04/2020 10:45 p.m.,07/04/2020 7:30 p.m.,07/04/2020 7:30 p.m.,Active,Active,Terroristic Threat
+Fraud,20-0175,Housing and Dining,07/03/2020 9:54 a.m.,06/26/2020 midnight,07/02/2020 midnight,Inactive,Active,Fraud
+Theft,20-0174,BRC,07/01/2020 3:51 p.m.,06/30/2020 4 p.m.,06/30/2020 8:30 p.m.,Criminal Arrest,Active,Theft
+Fraud,20-0173,McMurtry College,06/30/2020 4:48 p.m.,06/24/2020 midnight,06/27/2020 midnight,Inactive,Active,Fraud
+Criminal Mischief,20-0172,Reckling Park,06/30/2020 7:32 a.m.,06/29/2020 5:30 p.m.,06/30/2020 7:15 a.m.,Active,Active,Criminal Mischief
+Harassment,20-0171,Off Campus,06/28/2020 10:03 a.m.,06/27/2020 2:30 p.m.,06/27/2020 2:30 p.m.,Inactive,Active,Harassment
+Hate Incident (Clery),20-0169,Herring Hall,06/25/2020 2:06 p.m.,06/25/2020 7 a.m.,06/25/2020 1 p.m.,Inactive,Active,Hate Incident
+Warrants,20-0166,RUMPAC,06/22/2020 2:13 p.m.,06/22/2020 12:57 p.m.,06/22/2020 5:20 p.m.,Criminal Arrest County Citiation,Active,Warrants
+Theft,20-0165,Greenbriar Lot,06/18/2020 11:09 a.m.,06/16/2020 4 p.m.,06/17/2020 7 a.m.,Inactive,Active,Theft
+Criminal Trespass,20-0164,Lot 6,06/17/2020 7:35 p.m.,06/17/2020 7:37 p.m.,06/17/2020 11:11 p.m.,Criminal Arrest,Active,Criminal Trespass
+Theft,20-0161,BRC,06/15/2020 3:24 p.m.,06/12/2020 12:30 p.m.,06/12/2020 10:30 p.m.,Active,Active,Theft
+Theft,20-0158,Tudor Field House,06/11/2020 3:15 p.m.,06/11/2020 2:15 p.m.,06/11/2020 3 p.m.,Inactive,Active,Theft
+Criminal Trespass,20-0157,Rice Stadium,06/09/2020 10:53 p.m.,06/09/2020 10:53 p.m.,06/09/2020 11:34 p.m.,Cleared,Active,Criminal Trespass
